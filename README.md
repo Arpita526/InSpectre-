@@ -1,4 +1,4 @@
-🛡️ Web Sentinel – A Lightweight Website Vulnerability Scanner
+**🛡️ Web Sentinel – A Lightweight Website Vulnerability Scanner**
 
 
 # 1. Introduction
